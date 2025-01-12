@@ -1,3 +1,4 @@
+# GERAODR DE COMBINAÇÕES LOTERIA - JACKSON LEAL #
 # Importação das bibliotecas necessárias
 import pandas as pd
 import random
